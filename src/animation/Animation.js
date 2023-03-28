@@ -13,7 +13,10 @@ return(
         <div className="third"> <div>Full stack developer</div></div>
     </section>
 
+
    </main>
+
+
 )
 
  }
